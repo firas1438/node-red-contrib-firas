@@ -1,0 +1,17 @@
+{
+  "name": "node-red-contrib-firas",
+  "version": "1.0.0",
+  "description": "Test node for TP IoT",
+  "main": "node.js",
+  "node-red": {
+    "nodes": {
+      "lower-case": "node.js"
+    }
+  },
+  "keywords": [
+    "node-red",
+    "firas"
+  ],
+  "author": "Firas Ben Ali",
+  "license": "Apache-2.0"
+}
